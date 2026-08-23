@@ -1,0 +1,10 @@
+Python packages:
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+pyarrow
+pyranges
+matplotlib
+seaborn
